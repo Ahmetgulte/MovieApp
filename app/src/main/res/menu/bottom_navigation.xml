@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/movie_fragment"
+        android:title="Movie"
+        android:icon="@drawable/movie"></item>
+    <item
+    android:id="@+id/serie_fragment"
+    android:title="Tv Serie"
+    android:icon="@drawable/serie"></item>
+    <item
+        android:id="@+id/watchlist"
+        android:title="Watchlist"
+        android:icon="@drawable/ic_baseline_watch_later_24"></item>
+
+</menu>

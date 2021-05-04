@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="season">Seasons</string>
+    <string name="serie_genre">Tv Serie Genres</string>
+    <string name="trend_serie">Trend Series</string>
+    <string name="popular_serie">Popular Series</string>
+    <string name="top_rated_serie">Top Rated Series</string>
+    <string name="see_all">See all</string>
+    <string name="movie_genre">Movie Genres</string>
+    <string name="popular_movie">Popular Movies</string>
+    <string name="top_rated_movie">Top Rated Movies</string>
+</resources>
